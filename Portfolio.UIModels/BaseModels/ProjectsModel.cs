@@ -8,7 +8,7 @@ namespace Portfolio.UIModels.BaseModels
 {
     public class ProjectsModel
     {
-            
+             
         public int cId { get; set; }
         public string cName { get; set; }
         public string cLink { get; set; }
