@@ -20,6 +20,7 @@ namespace Portfolio.UIModels.ViewsModels
         public string Design { get; set; }
         public string UserDescription { get; set; }
         public string UserCity { get; set; }
+        public byte[] UserPhoto { get; set; }
         public List<WorkModel> WorkModel { get; set; }
         public List<EducationModel> EducationModel { get; set; }
         public List<SkillsModel> SkillsModel { get; set; }

@@ -40,9 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BindStrategy\ApiBind\MobileWebApiAuthorizedUserBind.cs" />
     <Compile Include="BindStrategy\ApiBind\MobileWebApiSearchBind.cs" />
     <Compile Include="BindStrategy\ViewBind\ResumeViewBind.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Mappers\ApiMappers\MobileWebApiAuthorisedUserMapper.cs" />
     <Compile Include="Mappers\ApiMappers\MobileWebApiSearchMapper.cs" />
     <Compile Include="Mappers\BaseMappers\IBaseListMapper.cs" />
     <Compile Include="Mappers\BaseMappers\IBaseMapper.cs" />

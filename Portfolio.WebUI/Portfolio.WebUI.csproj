@@ -178,6 +178,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MobileWebApiAuthController.cs" />
     <Compile Include="Controllers\RolesController.cs" />
     <Compile Include="Controllers\MobileWebApiController.cs" />
     <Compile Include="Controllers\UserController.cs" />

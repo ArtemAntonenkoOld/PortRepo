@@ -36,6 +36,7 @@ namespace Portfolio.BL.Mappers.ViewMappers
                     Design = item.cDesign,
                     UserDescription = item.cDescription,
                     UserCity = item.cCity,
+                    UserPhoto = item.cPhoto,
                     LanguagesModel = _languagesMapper.EntityToModel(item.tbLanguages.ToList()),
                     SkillsModel = _skillsMapper.EntityToModel(item.tbSkills.ToList()),
                     WorkModel = _workMapper.EntityToModel(item.tbWork.ToList()),

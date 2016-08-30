@@ -23,6 +23,7 @@ namespace Portfolio.Entity
         public int cPhone { get; set; }
         public string cCity { get; set; }
         public string cDesign { get; set; }
+        public byte[] cPhoto { get; set; }
         public virtual ICollection<tbWork> tbWork { get; set; }
         public virtual ICollection<tbSkills> tbSkills { get; set; }
         public virtual ICollection<tbProjects> tbProjects { get; set; }

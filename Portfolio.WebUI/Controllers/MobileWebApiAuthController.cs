@@ -6,20 +6,18 @@ using System.Net.Http;
 using System.Web.Http;
 using Portfolio.BL.BindStrategy.ApiBind;
 using Portfolio.UIModels.ApiModels;
+
 namespace Portfolio.WebUI.Controllers
 {
-    public class MobileWebApiSearchController : ApiController
+    public class MobileWebApiAuthController: ApiController
     {
-        // GET api/<controller>
-        public IEnumerable<MobileWebApiSearchModel> Post(string SearchRequest)// or get mathod
+        public IEnumerable<MobileWebApiAuthorizedUserModel> Post()// Auth at this shit
         {
-            MobileWebApiSearchBind binder = new MobileWebApiSearchBind();
-            var res = binder.BindData(SearchRequest);
+            MobileWebApiAuthorizedUserBind binder = new MobileWebApiAuthorizedUserBind();
+            var res = binder.BindData();
 
             return (res);
 
         }
-
-
     }
 }

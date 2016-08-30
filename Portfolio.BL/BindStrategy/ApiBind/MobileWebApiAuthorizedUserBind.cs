@@ -9,20 +9,18 @@ using System.Threading.Tasks;
 
 namespace Portfolio.BL.BindStrategy.ApiBind
 {
-    public class MobileWebApiSearchBind
+    public class MobileWebApiAuthorizedUserBind
     {
-        public List<MobileWebApiSearchModel> BindData(string SearchRequest)
+        public List<MobileWebApiAuthorizedUserModel> BindData()
         {
             RepositoryHolder holder = new RepositoryHolder();
 
-            MobileWebApiSearchMapper mapper = new MobileWebApiSearchMapper();
+            MobileWebApiAuthorisedUserMapper mapper = new MobileWebApiAuthorisedUserMapper();
             var _userRepository = holder.UserRepository;
-            List<MobileWebApiSearchModel> resultnewData =
+            List<MobileWebApiAuthorizedUserModel> resultnewData =
                 _userRepository.
-                    FetchBy(z=> z.cPosition==SearchRequest).  //fix this search with contain mathod maybe
-                    
+                    Fetch().
                     Select(p => mapper.EntityToModel(p)).
-                    
                     ToList();
 
             return resultnewData;

@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApiModels\MobileWebApiAuthorizedUserModel.cs" />
     <Compile Include="BaseModels\EducationModel.cs" />
     <Compile Include="BaseModels\LanguagesModel.cs" />
     <Compile Include="BaseModels\ProjectsModel.cs" />
