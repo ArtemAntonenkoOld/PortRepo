@@ -1,0 +1,28 @@
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\Portfolio.Entity.dll.config
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\Portfolio.Entity.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\Portfolio.Entity.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\EntityFramework.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\EntityFramework.xml
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.csprojResolveAssemblyReference.cache
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.Migrations.tbEducation.resources
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.csproj.GenerateResource.Cache
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\Portfolio.Entity.dll.config
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\Portfolio.Entity.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\Portfolio.Entity.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\EntityFramework.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\EntityFramework.xml
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.Migrations.tbEducation.resources
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.csproj.GenerateResource.Cache
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.csprojResolveAssemblyReference.cache

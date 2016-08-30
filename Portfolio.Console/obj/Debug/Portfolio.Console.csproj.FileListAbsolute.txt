@@ -1,0 +1,40 @@
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Identity\Portfolio.Console\bin\Debug\Portfolio.Console.exe.config
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Identity\Portfolio.Console\obj\Debug\Portfolio.Console.csprojResolveAssemblyReference.cache
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Identity\Portfolio.Console\bin\Debug\Portfolio.Console.exe
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Identity\Portfolio.Console\bin\Debug\Portfolio.Console.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Identity\Portfolio.Console\obj\Debug\Portfolio.Console.exe
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Identity\Portfolio.Console\obj\Debug\Portfolio.Console.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Console.exe.config
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\obj\Debug\Portfolio.Console.exe
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\obj\Debug\Portfolio.Console.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Console.exe
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Console.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\Portfolio.DAL.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Entity.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\EntityFramework.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\Portfolio.DAL.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Entity.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\EntityFramework.xml
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\obj\Debug\Portfolio.Console.csprojResolveAssemblyReference.cache
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.Console\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Console.exe.config
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Console.exe
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Console.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\EntityFramework.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.DAL.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Entity.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.DAL.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Entity.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\EntityFramework.xml
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\obj\Debug\Portfolio.Console.csprojResolveAssemblyReference.cache
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\obj\Debug\Portfolio.Console.exe
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\obj\Debug\Portfolio.Console.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Console.exe.CodeAnalysisLog.xml
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Console\bin\Debug\Portfolio.Console.exe.lastcodeanalysissucceeded

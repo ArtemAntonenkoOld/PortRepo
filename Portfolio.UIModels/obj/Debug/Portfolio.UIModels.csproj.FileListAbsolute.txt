@@ -1,0 +1,5 @@
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\bin\Debug\Portfolio.UIModels.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\bin\Debug\Portfolio.UIModels.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.csprojResolveAssemblyReference.cache

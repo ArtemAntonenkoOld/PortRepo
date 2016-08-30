@@ -1,0 +1,191 @@
+﻿@model IEnumerable<Portfolio.UIModels.ViewsModels.ResumePageModel>
+@{ 
+    Layout=null;
+}
+@foreach (var item in Model)
+{
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/Indexs.css")"/>
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/icons/css/font-awesome.css")" />
+    <title> </title>
+</head>
+<body>
+    <div class="content">
+        <div class="left">
+            <div class="user">
+                <div class="user-photo">
+                    <img src="Artem.jpg" alt="">
+                </div>
+                <div class="user-name">
+                    @item.UserName @item.UserSurname
+                </div>
+                <div class="user-prof">
+                    @item.UserPosition
+                </div>
+            </div>
+
+            <div class="info">
+                @if(@item.UserDescription!="")
+                {
+                <div class="about">
+                    <div class="about-title">
+                        <div class="about-icon fa fa-user"></div>
+                        ABOUT ME
+                    </div>
+                    <div class="about-block">
+                        @item.UserDescription
+                    </div>
+                </div>
+                }
+                
+                <div class="comment">
+                    <div class="comment-title">
+                        <div class="comment-icon fa fa-comment"></div>
+                        CONTACT ME
+                    </div>
+                    @if(item.UserCity!=""){
+                    <div class="comment-map">
+                        <div class="comment-map-icon fa fa-map-marker"></div>
+                        @item.UserCity
+                    </div>
+                    }
+                    @if (item.UserEmail!="") {
+                    <div class="comment-cloud">
+                        <a href="@item.UserEmail">
+                            <div class="comment-cloud-icon fa fa-cloud"></div>
+                            @item.UserEmail
+                        </a>
+                    </div>
+                    }
+                    
+                    <div class="comment-phone">
+                        <div class="comment-map-icon fa fa-phone"></div>
+                        <!-- TODO FIX CODE--> 
+                        @item.UserPhone
+                    </div>
+                    
+                </div>
+                @if (item.SkillsModel.Count != 0)
+                {
+                <div class="skills">
+                    <div class="skills-title">
+                        <div class="skills-icon fa fa-comment"></div>
+                        SKILLS
+                    </div>
+                    @foreach(var skill in item.SkillsModel) { 
+                    <div class="skill-block">
+                        <div class="check">
+                            <div class="check-icon fa fa-check"></div>
+                            @skill.Technology
+                        </div>
+
+                        <div class="progress">
+                            <div class="progress-bar pix-@skill.Knowledge">
+
+                            </div>
+                        </div>
+                    </div>
+                    }
+                </div>
+                }
+            </div>
+        </div>
+
+
+        <div class="right">
+            <div class="work-block">
+                <div class="work-header">
+                    Work Experience
+                </div>
+                @foreach (var work in item.WorkModel)
+                {
+                <div class="work-child">
+                    <div class="work-child-header">
+                        <div class="work-child-header-position">
+                            @work.Standing
+                        </div>
+                        <div class="work-child-header-company">
+                            @work.Company
+                        </div>
+                        <div class="work-child-header-period">
+                            @work.StartPeriod.ToShortDateString()-@work.EndPeriod.ToShortDateString()
+                        </div>
+                    </div>
+                    <div class="work-child-body">
+                        @work.Description
+                    </div>
+                </div>
+                }
+            </div>
+
+            <div class="education-block">
+                <div class="education-header">
+                    Education
+                </div>
+                @foreach (var education in item.EducationModel) {
+                <div class="education-child">
+                    <div class="education-child-header">
+                        <div class="education-child-header-position">
+                            @education.Name
+                        </div>
+                        <div class="education-child-header-company">
+                            @education.Place
+                        </div>
+                        <div class="education-child-header-period">
+                            03.06.2016-24.06.2016
+                        </div>
+                    </div>
+                    <!--TODO do something with this shit <div class="education-child-body">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </div>-->
+                </div>
+                }
+            </div>
+
+            <div class="languages-block">
+                <div class="languages-header">
+                    Languages
+                </div>
+                <div class="languages-body">
+                    <div class="flag">
+                        <div class="flag-photo">
+                        </div>
+                        <div class="language">
+                            ENGLISH
+                        </div>
+                    </div>
+                    <div class="flag">
+                        <div class="flag-photo">
+                        </div>
+                        <div class="language">
+                            ENGLISH
+                        </div>
+                    </div>
+                    <div class="flag">
+                        <div class="flag-photo">
+                        </div>
+                        <div class="language">
+                            ENGLISH
+                        </div>
+                    </div>
+                    <div class="flag">
+                        <div class="flag-photo">
+                        </div>
+                        <div class="language">
+                            ENGLISH
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+}

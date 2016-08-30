@@ -1,0 +1,28 @@
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.DAL.dll.config
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.DAL.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.DAL.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\EntityFramework.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.Entity.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.Entity.pdb
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\EntityFramework.xml
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\obj\Debug\Portfolio.DAL.csprojResolveAssemblyReference.cache
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\obj\Debug\Portfolio.DAL.dll
+C:\Users\SUPER\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio.DAL\obj\Debug\Portfolio.DAL.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.DAL.dll.config
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.DAL.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.DAL.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\EntityFramework.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.Entity.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\Portfolio.Entity.pdb
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\EntityFramework.xml
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\obj\Debug\Portfolio.DAL.csprojResolveAssemblyReference.cache
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\obj\Debug\Portfolio.DAL.dll
+C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.DAL\obj\Debug\Portfolio.DAL.pdb
