@@ -26,3 +26,17 @@ C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.dll
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.pdb
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.Entity\obj\Debug\Portfolio.Entity.csprojResolveAssemblyReference.cache
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\Portfolio.Entity.dll.config
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\Portfolio.Entity.dll
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\Portfolio.Entity.pdb
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\EntityFramework.dll
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\EntityFramework.xml
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\obj\Debug\Portfolio.Entity.csprojResolveAssemblyReference.cache
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\obj\Debug\Portfolio.Entity.Migrations.tbEducation.resources
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\obj\Debug\Portfolio.Entity.csproj.GenerateResource.Cache
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\obj\Debug\Portfolio.Entity.dll
+C:\Users\PROST\Desktop\Git\Portfolio.Entity\obj\Debug\Portfolio.Entity.pdb

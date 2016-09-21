@@ -12,3 +12,17 @@ C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.BL\bin\Debug\EntityFramewo
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.BL\bin\Debug\ru\EntityFramework.resources.dll
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.BL\obj\Debug\Portfolio.BL.dll
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.BL\obj\Debug\Portfolio.BL.pdb
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\Portfolio.BL.dll
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\Portfolio.BL.pdb
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\Portfolio.DAL.dll
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\Portfolio.Entity.dll
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\Portfolio.UIModels.dll
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\EntityFramework.dll
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\Portfolio.DAL.pdb
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\Portfolio.Entity.pdb
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\Portfolio.UIModels.pdb
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\EntityFramework.xml
+C:\Users\PROST\Desktop\Git\Portfolio.BL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\PROST\Desktop\Git\Portfolio.BL\obj\Debug\Portfolio.BL.csprojResolveAssemblyReference.cache
+C:\Users\PROST\Desktop\Git\Portfolio.BL\obj\Debug\Portfolio.BL.dll
+C:\Users\PROST\Desktop\Git\Portfolio.BL\obj\Debug\Portfolio.BL.pdb

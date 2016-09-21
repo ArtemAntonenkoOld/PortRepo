@@ -3,3 +3,8 @@ C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\bin\Debug\Portfol
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.dll
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.pdb
 C:\Users\PROST\Desktop\fhjhvkjbjb\Portfolio\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.csprojResolveAssemblyReference.cache
+C:\Users\PROST\Desktop\Git\Portfolio.UIModels\bin\Debug\Portfolio.UIModels.dll
+C:\Users\PROST\Desktop\Git\Portfolio.UIModels\bin\Debug\Portfolio.UIModels.pdb
+C:\Users\PROST\Desktop\Git\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.csprojResolveAssemblyReference.cache
+C:\Users\PROST\Desktop\Git\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.dll
+C:\Users\PROST\Desktop\Git\Portfolio.UIModels\obj\Debug\Portfolio.UIModels.pdb

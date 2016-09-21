@@ -46,6 +46,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Mappers\ApiMappers\MobileWebApiAuthorisedUserMapper.cs" />
     <Compile Include="Mappers\ApiMappers\MobileWebApiSearchMapper.cs" />
+    <Compile Include="Mappers\ApiMappers\MobileWebApiUserWorkMapper.cs" />
     <Compile Include="Mappers\BaseMappers\IBaseListMapper.cs" />
     <Compile Include="Mappers\BaseMappers\IBaseMapper.cs" />
     <Compile Include="Mappers\SampleMappers\EducationMapper.cs" />
